@@ -1,0 +1,8 @@
+/* @import './fonts/roboto.css'; */
+@import '~normalize.css';
+@import './fonts/barnaul.css';
+
+body {
+  font-family: 'Barnaul',  sans-serif;
+}
+

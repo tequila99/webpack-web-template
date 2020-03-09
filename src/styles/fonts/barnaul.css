@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Barnaul';
+  src: 
+    url('~fonts/barnaul/BarnaulGrotesk-Reg.woff2') format('woff2'),
+    url('~fonts/barnaul/BarnaulGrotesk-Reg.woff') format('woff'),
+    url('~fonts/barnaul/BarnaulGrotesk-Reg.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Barnaul-Medium';
+  src: 
+    url('~fonts/barnaul/BarnaulGroteskMedium-Reg.woff2') format('woff2'),
+    url('~fonts/barnaul/BarnaulGroteskMedium-Reg.woff') format('woff'),
+    url('~fonts/barnaul/BarnaulGroteskMedium-Reg.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Barnaul-Bold';
+  src: 
+    url('~fonts/barnaul/BarnaulGroteskBold-Reg.woff2') format('woff2'),
+    url('~fonts/barnaul/BarnaulGroteskBold-Reg.woff') format('woff'),
+    url('~fonts/barnaul/BarnaulGroteskBold-Reg.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Barnaul-Extra-Bold';
+  src: 
+    url('~fonts/barnaul/BarnaulGroteskExtraBold-Reg.woff2') format('woff2'),
+    url('~fonts/barnaul/BarnaulGroteskExtraBold-Reg.woff') format('woff'),
+    url('~fonts/barnaul/BarnaulGroteskExtraBold-Reg.ttf') format('truetype');
+  font-weight: 500;
+}
