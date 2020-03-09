@@ -222,7 +222,7 @@ const config = {
   devServer: {
     port: 4200,
     overlay: true,
-    hot: isDev
+    hot: true
   },
   devtool: isDev ? 'source-map' : '',
   plugins: [
